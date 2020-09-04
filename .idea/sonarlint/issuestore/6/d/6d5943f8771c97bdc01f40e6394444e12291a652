@@ -1,0 +1,4 @@
+
+`javascript:UnusedVariable"6Remove the declaration of the unused 'isInt' variable.(Ø¼âÑ8ã¡²›Å.
+Yjavascript:S1854"8Remove this useless assignment to local variable "isInt"(Ø¼âÑ8ã¡²›Å.
+`javascript:S3001"?Remove this "delete" operator or pass an object property to it.(× ÖŽ8ã¡²›Å.
